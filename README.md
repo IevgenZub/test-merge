@@ -1,2 +1,2 @@
 # test-merge
-my super repo ABC MERGED!!!
+my super repo HHHHH
