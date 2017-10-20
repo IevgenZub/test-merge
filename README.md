@@ -1,3 +1,2 @@
 # test-merge
-
-my super repo B
+my super repo AB
